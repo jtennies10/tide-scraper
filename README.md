@@ -4,4 +4,4 @@ Download the Firefox driver(v0.26.0) tarball from here: https://github.com/mozil
 Extract the tarball into /usr/bin  
     cd /usr/bin  
     sudo tar -xf ~/Downloads/geckodriver-v0.26.0-linux64.tar.gz  
-Run with python3: <project_dir>/python3 main.py
+Run with python3: python3 <project_dir>/main.py
